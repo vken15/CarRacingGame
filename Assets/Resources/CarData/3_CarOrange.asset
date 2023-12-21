@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8526f12386025be42bb01db12439cd0a, type: 3}
+  m_Name: 3_CarOrange
+  m_EditorClassIdentifier: 
+  carID: 3
+  carUISprite: {fileID: 68037723425395300, guid: f2dcc77e305be42469820d728bfe6c60, type: 3}
+  carPrefab: {fileID: 3182412582249669122, guid: cef0528810acc2045b5edd6101afbd6e, type: 3}
